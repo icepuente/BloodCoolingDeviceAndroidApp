@@ -1,0 +1,43 @@
+<resources>
+    <!-- Application Strings -->
+    <string name="app_name">Blood Cooling Monitor</string>
+    <string name="timer">Timer</string>
+    <string name="done">Done</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+    <string name="controls_tab">Controls</string>
+    <string name="sensors_tab">Sensors</string>
+
+    <string name="peltier_power_label">Peltier power level</string>
+    <string name="pump_power_label">Pump power level</string>
+    <string name="therm1_temp_label">Thermistor 1 temp</string>
+    <string name="therm2_temp_label">Thermistor 2 temp</string>
+    <string name="therm3_temp_label">Thermistor 3 temp</string>
+    <string name="ir_temp_label">IR temp</string>
+
+    <string name="uuid">00001101-0000-1000-8000-00805f9b34fb</string>
+
+    <string name="bluetooth_module_name">HC-06</string>
+
+    <!-- Bluetooth Strings -->
+    <string name="bluetooth_on">Turn on Bluetooth</string>
+    <string name="bluetooth_device_connect">Connect to device</string>
+    <string name="bluetooth_on_toast">Enabled Bluetooth</string>
+    <string name="bluetooth_already_on_toast">Bluetooth already enabled</string>
+    <string name="bluetooth_off">Turn off Bluetooth</string>
+    <string name="bluetooth_off_toast">Disabled Bluetooth</string>
+    <string name="bluetooth_already_off_toast">Bluetooth already disabled</string>
+    <string name="bluetooth_missing">Bluetooth adapter not found. Application will not function
+                                    correctly</string>
+    <string name="connected_device_string">Connected to device</string>
+    <string name="connect_menu_title">Connect to device</string>
+    <string name="disconnected_device_string">Disconnected from device</string>
+    <string name="disconnect_menu_title">Disconnect from device</string>
+    <string name="pair_device_message">The device needs to be paired to Android prior to connecting</string>
+    <string name="turn_on_bluetooth_request">Please enable Bluetooth</string>
+
+    <string name="status_connected">Status: Connected</string>
+    <string name="status_disconnected">Status: Disconnected</string>
+</resources>
